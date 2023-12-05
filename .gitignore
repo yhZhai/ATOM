@@ -176,4 +176,17 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 *.DS_Store
-
+dataset/HumanAct12Poses
+dataset/KIT-ML
+dataset/KIT-ML-Large
+dataset/HumanML3D
+kit/
+t2m/
+save/
+body_models/smpl/
+assets/actionrecognition/
+glove/
+.vscode/
+glove
+kit
+t2m
